@@ -101,10 +101,10 @@ namespace WorkWithWord2_2_graphical_DocX_lib_
                     {
                         Programm.EditT(LastIMG1Name, LastIMG2Name, h1, h2, h3);
                         Programm.AddT();
-                        richTextBox1.Text += "Template number " + (Entering.Templates - numt + 1) + " added! \n";
+                        //richTextBox1.Text += "Template number " + (Entering.Templates - numt + 1) + " added! \n"; // not works
                         if (numt > 1)
                         {
-                            this.Hide();
+                            this.Hide();    // это п*здец, но я заметил это уже слишком поздно... R.I.P.
                             Form1 a = new Form1(--numt);                            // Вызов новой формы
                             a.StartPosition = FormStartPosition.Manual;     // Код для вызова новой формы на месте старой
                             a.Location = Location;                          // Код для вызова новой формы на месте старой

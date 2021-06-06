@@ -28,7 +28,7 @@ namespace WorkWithWord2_2_graphical_DocX_lib_
         public static string docdic = @"C:\Users\Sinitza\Documents\APlaces\";
         //public static string imgdic = @"C:\Users\Sinitza\Documents\APlaces\";
         public static string templatedic = @"C:\Users\Sinitza\Documents\APlaces\Templates\";
-        public static string docname = "Places1.docx";
+        public static string docname = "Places2.docx";
         public static string templatename = "Template1.docx";
         //public static string picname = "ex2.jpg";
         //комфортная ширина картинки = 520, 292 = 520*1.777777 (16/9 = 1.777777)
@@ -73,7 +73,7 @@ namespace WorkWithWord2_2_graphical_DocX_lib_
                     //var templatepath = templatedic + templatename;
                     //doc2.ApplyTemplate(templatepath);
                     doc1.Save();
-                    MessageBox.Show("Finished adding template");
+                    //MessageBox.Show("Finished adding template");      // old
                     //Console.WriteLine("Finished adding template!");
                 }
             }
