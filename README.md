@@ -26,4 +26,5 @@ You must fill in all headers (keep in mind, that h1 header will be used for stor
 That's all!
 
 If you have troubles with paths, they are defined in file Program.cs, around line 30 and in file Form1.cs, around line 50
+
 Also, if you are interested, there is a TODO list in file Form1.cs
