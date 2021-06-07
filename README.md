@@ -3,7 +3,7 @@ Allows user to fill in name, place and other information, with 2 adresses of pic
 
 Check ReadMePls.txt for current status of a project
 
-All this programm uses DocX library made by Xceed. I tried to use the other one lib, but that one completely hadn't allowed to do anything useful with word file. 
+All this programm is based on .Net Frameword WinForms and uses DocX library made by Xceed. I tried to use the other one lib, but that library completely hadn't allowed to do anything useful for me with word file. 
 
 Before all actions down below, check that you have your template correctly configured and all paths also (mentioned in the end of this "tutorial")
 
