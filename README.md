@@ -25,5 +25,5 @@ You must fill in all headers (keep in mind, that h1 header will be used for stor
 ![4](https://user-images.githubusercontent.com/34866926/120944085-4b953680-c73b-11eb-8b28-cac27e77c8f2.png)
 That's all!
 
-If you have troubles with paths, they are defined in file Program.cs, around line 30
+If you have troubles with paths, they are defined in file Program.cs, around line 30 and in file Form1.cs, around line 50
 Also, if you are interested, there is a TODO list in file Form1.cs
