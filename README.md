@@ -5,7 +5,7 @@ Check ReadMePls.txt for current status of a project
 
 All this programm uses DocX library made by Xceed. I tried to use the other one lib, but that one completely hadn't allowed to do anything useful with word file. 
 
-Before all actions down below, check that you have your template correctly configured and the Base path also
+Before all actions down below, check that you have your template correctly configured and all paths also (mentioned in the end of this "tutorial")
 
 __So, how this works?__ 
 # 1)First this window appears:
