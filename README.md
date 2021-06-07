@@ -13,7 +13,7 @@ __So, how this works?__
 
 Here you should choose the count of your templates you are going to take (this must have been enldess while, but project is closed, so...
 
-# 2) Secondly, the work begins. h1 header will be used for upper header, h2 for level lower and h3 for lowest text layer.
+# 2) Secondly, the work begins. h1 header will be used for upper header, h2 for level lower and h3 for lowest text layer. (u can see the result on the last pic - h1 is Orange, h2 is green and h3 is black text) 
 ![2](https://user-images.githubusercontent.com/34866926/120944083-4afca000-c73b-11eb-870a-de7db2e1a787.png)
 
 # 3) Continuing👀
