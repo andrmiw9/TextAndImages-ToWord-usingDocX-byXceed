@@ -3,6 +3,8 @@ Allows user to fill in name, place and other information, with 2 adresses of pic
 
 Check ReadMePls.txt for current status of a project
 
+All this programm uses DocX library made by Xceed. I tried to use the other one lib, but that one completely hadn't allowed to do anything useful with word file. 
+
 Before all actions down below, check that you have your template correctly configured and the Base path also
 
 __So, how this works?__ 
